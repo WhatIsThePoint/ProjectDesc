@@ -1,0 +1,4 @@
+build a communication app like discord and be able to send mssg log in/sign up/ 
+log out, be able to see onlie friends ,friendlist,servers,text and voice channels.
+(hope so)
+(but actually nvm remove half of the features.)
